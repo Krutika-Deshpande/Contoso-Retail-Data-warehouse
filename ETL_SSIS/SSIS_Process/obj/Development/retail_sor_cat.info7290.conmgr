@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="retail_sor_cat.info7290"
+  DTS:DTSID="{464DFF26-9BCD-4D26-B32C-EB028CCA79A7}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=info7290;Dsn=cat;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxt0lzUTxH0Cz77gTPDzFdwAAAAACAAAAAAAQZgAAAAEAACAAAACZPkcKqnKrukL2kqKwBY9OJoq+XMBkUZpcKDb8BYbeAAAAAAAOgAAAAAIAACAAAACAKGBcepau6tqd3gjUF/G7vrowG5MVSCStIbsNMFm663AAAAAA0m0tIxEUAGnCjajZfBn3qmOh2BIyoOjqOEy+s76VkOzvV8LLTfz1qWphvk4p3oJGq/QsYWX8XNLCM2KakAHxsypQlhb23o2J+wTOE9lA2TT2MLqAr+khjdxAc2gWY7cABZSP6jGAkT1XjkeEP8jWQAAAALMU/lD8ZW0EEVz50b0otb1Yn2pX+T7hy8H+3hTHVnKmIxIrtxEx3k3GnH4pJ0Pn7RuD8Um2w3dp7w83dD/Q08g=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="retail_sor_eu.info7290"
+  DTS:DTSID="{638AC8DD-05AA-4C98-A424-62E913E8DFF2}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=info7290;Dsn=finaltest;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxt0lzUTxH0Cz77gTPDzFdwAAAAACAAAAAAAQZgAAAAEAACAAAADSFGNMd62lchFK4VW7iWUbuYHl3AAANrsgewoTm4Z5YQAAAAAOgAAAAAIAACAAAABrVTWA3k0qfLrxFRrnh6nocHtBt53VbQUpiPl6AbkgL3AAAAA7B4bufChI5Eu9UnHSbhEkeK56c+jCDW9lAu1sour9sPoa7VJDHVAqiDscoBHf5dOr7T5giBaKPBOfz1LS7jNaaNTs4LV5UEjEXjCcsKjcXSks+1GCRoGa2iXheffOwtdcXa/Bp5BGR71szn5SpEWRQAAAANFh82uf3jOw933vWGyZFw+wchRNpOP4kNJj54kjmJhW9sUWPI27EDUBjc5cs6kW8Tu1WxcCLSYMWNb3FlAYwgU=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

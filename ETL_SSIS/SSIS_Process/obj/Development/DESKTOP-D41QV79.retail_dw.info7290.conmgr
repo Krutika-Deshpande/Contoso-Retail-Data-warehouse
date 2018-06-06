@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-D41QV79.retail_dw.info7290"
+  DTS:DTSID="{8BEBB992-5CCC-4694-B86A-B81A792028F4}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-D41QV79;User ID=info7290;Initial Catalog=retail_dw;Provider=SQLNCLI11.1;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+W7hNUeo9Uu0aaIIXZz72QAAAAACAAAAAAAQZgAAAAEAACAAAAC5K0yp0YNzEGS+gtHWtvBnvPjgboyjmTZMd3L3S6oyLAAAAAAOgAAAAAIAACAAAACvGtA1FJxxOQs5dbvbr+LrFkzTQvOohR/t5Bzh9sxeVoAAAABois3pOsX+ymE+T1XgZUa4t6DAZ2RnOOcm087iUbzYqP+AshYY+sI2AxAM6lh9hGh0xaztIa1S5EkZmRkPGkeTv/L/F/dIsaWErURFgBtK8J2H7itbwtISmNcp8+OAXzo/i4/h5X/C8ujrKgwIB8o6pTsvY+wkNFbYVshuELN5LEAAAADjK/KVSWFmDXj3rjDn6mdTy0zVe9xZNIxR7dsnSABItimmrTfktibhEYmoF8eeblfOm+i8rkYD/QgahdQOwLkZ</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

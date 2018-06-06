@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="retail_sor_as.info7290"
+  DTS:DTSID="{3F6AC0C8-F3FF-4C6C-B0B4-15331CD53D7D}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=info7290;Dsn=PostgreSQL35W;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxt0lzUTxH0Cz77gTPDzFdwAAAAACAAAAAAAQZgAAAAEAACAAAABfDR/krG4Iqyd3fE+HuJGcWqOnSHzGoLtqCNtAJZxoagAAAAAOgAAAAAIAACAAAAAVHl3Rqt8ytVUH0ElLIFsAr0PWgFRhStJdi16VAsJ+1HAAAAArfphg6w77ESF3bBFm2fDfUGWnFK/MAzGoqPCiqvhXT6EyRtID6p4SfP30YnrE+h+9yD1vaH/VOJW99tFcMR7yYBlvCpX0KP02LH1VSt3tLiAzXq9/lTOLEoSwpr2biKQWhO3T+70qdJzH117JUL1gQAAAADCR0Fp0letvl1edm+bAWIO/C/3QFFNs8mcB2fw3EI6fV+802OlzpMQYZ6+zhWmt4GvZnGuFfhmVXGO+DeQjbJg=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
